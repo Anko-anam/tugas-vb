@@ -80,7 +80,7 @@ Public Class F_MasterAdmin
             Button2.Text = "Simpan"
             Button1.Enabled = False
             Button3.Enabled = False
-            Button4.Text = "Batal"
+            Button4.Text = "Gajadi"
             Call SiapIsi()
         Else
             If TextBox1.Text = "" Or TextBox2.Text = "" Or TextBox3.Text = "" Or ComboBox1.Text = "" Then
